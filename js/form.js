@@ -11,7 +11,6 @@ botao.addEventListener('click', function (event) {
     console.log('Paciente Invalido');
     return;
   }
-  var pacienteTr = montaTr(paciente);
 
   var erros = validaPaciente(paciente);
 
@@ -19,14 +18,17 @@ botao.addEventListener('click', function (event) {
     exibeMensagensDeErros(erros);
     return;
   }
-
-  var tabela = document.querySelector('#tabela-pacientes');
-  tabela.appendChild(pacienteTr);
-
+  adicionaPacienteNaTabela(paciente);
   form.reset();
   var mensagensErros = document.querySelector('#mensagens-erro');
   mensagensErros.innerHTML = '';
 });
+
+function adicionaPacienteNaTabela(paciente) {
+  var pacienteTr = montaTr(paciente);
+  var tabela = document.querySelector('#tabela-pacientes');
+  tabela.appendChild(pacienteTr);
+}
 
 function obtemDadosDoForm(form) {
   var paciente = {

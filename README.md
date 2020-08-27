@@ -36,3 +36,5 @@ Foco desse treinamento, manipulação e altração da DOM.
 ---
 
 ## :bookmark_tabs: Certificado
+
+[Certificado](https://cursos.alura.com.br/certificate/df42b2e5-fc46-4626-bbf3-b8843b8b9043)
