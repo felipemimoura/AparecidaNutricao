@@ -1,6 +1,6 @@
 # Sobre
 
-Esse repositório conta com todo o conteúdo desenvolvido durante o curso "JavaScript: Programando a na linguagem da WEB" da Alura Cursos Online. Onde é apresentado:
+Esse repositório conta com todo o conteúdo desenvolvido durante o curso "HTML5 do canal Curso em Video" . Onde é apresentado:
 
 - Manipulação dos elementos da página;
 - Eventos do navegador
@@ -37,4 +37,4 @@ Foco desse treinamento, manipulação e altração da DOM.
 
 ## :bookmark_tabs: Certificado
 
-[Certificado](https://cursos.alura.com.br/certificate/df42b2e5-fc46-4626-bbf3-b8843b8b9043)
+Você pode verfiricar o certificado clicando [aqui](https://cursos.alura.com.br/certificate/df42b2e5-fc46-4626-bbf3-b8843b8b9043)
