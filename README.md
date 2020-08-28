@@ -1,6 +1,6 @@
 # Sobre
 
-Esse repositório conta com todo o conteúdo desenvolvido durante o curso "HTML5 do canal Curso em Video" . Onde é apresentado:
+Esse repositório conta com todo o conteúdo desenvolvido durante o curso "JavaScript: Programando na linguagem da web da Alura Cursos Online" . Onde é apresentado:
 
 - Manipulação dos elementos da página;
 - Eventos do navegador
